@@ -1,2 +1,2 @@
 ch1 = 1
-print(ch1**100)
+print(str(ch1-1000))
